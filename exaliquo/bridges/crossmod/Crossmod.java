@@ -20,7 +20,7 @@ public class Crossmod
 		{
 			ExtraTic_Metallurgy.SmeltMetallurgy();
 		}
-		if (isExtraTICLoaded && Loader.isModLoaded("Mekanisum"))
+		if (isExtraTICLoaded && Loader.isModLoaded("Mekanism"))
 		{
 			ExtraTic_Mekanism.SmeltMekanism();
 		}
