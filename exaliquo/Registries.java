@@ -310,8 +310,8 @@ public class Registries
 			GameRegistry.addShapedRecipe(new ItemStack(orichalcumOreBlock, 1, i), new Object[] { oreshape, 'i', new ItemStack(orichalcumOreItem, 1, i)});
 			GameRegistry.addShapedRecipe(new ItemStack(oureclaseOreBlock, 1, i), new Object[] { oreshape, 'i', new ItemStack(oureclaseOreItem, 1, i)});
 			GameRegistry.addShapedRecipe(new ItemStack(prometheumOreBlock, 1, i), new Object[] { oreshape, 'i', new ItemStack(prometheumOreItem, 1, i)});
-			GameRegistry.addShapedRecipe(new ItemStack(rubraciumOreBlock, 1, i), new Object[] { oreshape, 'i', new ItemStack(adamantineOreItem, 1, i)});
-			GameRegistry.addShapedRecipe(new ItemStack(sanguiniteOreBlock, 1, i), new Object[] { oreshape, 'i', new ItemStack(rubraciumOreItem, 1, i)});
+			GameRegistry.addShapedRecipe(new ItemStack(rubraciumOreBlock, 1, i), new Object[] { oreshape, 'i', new ItemStack(rubraciumOreItem, 1, i)});
+			GameRegistry.addShapedRecipe(new ItemStack(sanguiniteOreBlock, 1, i), new Object[] { oreshape, 'i', new ItemStack(sanguiniteOreItem, 1, i)});
 			GameRegistry.addShapedRecipe(new ItemStack(shadowironOreBlock, 1, i), new Object[] { oreshape, 'i', new ItemStack(shadowironOreItem, 1, i)});
 			GameRegistry.addShapedRecipe(new ItemStack(vulcaniteOreBlock, 1, i), new Object[] { oreshape, 'i', new ItemStack(vulcaniteOreItem, 1, i)});
 			GameRegistry.addShapedRecipe(new ItemStack(vyroxeresOreBlock, 1, i), new Object[] { oreshape, 'i', new ItemStack(vyroxeresOreItem, 1, i)});
