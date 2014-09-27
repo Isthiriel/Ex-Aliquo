@@ -35,7 +35,7 @@ public class OreDictDrops
 		MANGANESE("ingotManganese","oreManganese",1,Registries.manganeseOreItem,Registries.manganeseOreBlock,-1,overworld,6),
 		MITHRIL("ingotMithril","oreMithril",1,Registries.mithrilOreItem,Registries.mithrilOreBlock,-1,overworld,96),
 		ORICHALCUM("ingotOrichalcum","oreOrichalcum",1,Registries.orichalcumOreItem,Registries.orichalcumOreBlock,-1,overworld,128),
-		OURECLASE("ingotOureclase","oreOureclase",1,Registries.oureclaseOreItem,Registries.orichalcumOreBlock,-1,overworld,32),
+		OURECLASE("ingotOureclase","oreOureclase",1,Registries.oureclaseOreItem,Registries.oureclaseOreBlock,-1,overworld,32),
 		PROMETHEUM("ingotPrometheum","orePrometheum",1,Registries.prometheumOreItem,Registries.prometheumOreBlock,-1,overworld,6),
 		RUBRACIUM("ingotRubracium","oreRubracium",1,Registries.rubraciumOreItem,Registries.rubraciumOreBlock,-1,overworld,144),
 		ZINC("ingotZinc","oreZinc",1,Registries.zincOreItem,Registries.zincOreBlock,-1,overworld,12),
